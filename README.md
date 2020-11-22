@@ -1,1 +1,1 @@
-This is Cano's first git project!
+This is Can's first git project!
